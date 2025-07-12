@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Telangana growth analysis - Complete project
 
 # In[ ]:
 
