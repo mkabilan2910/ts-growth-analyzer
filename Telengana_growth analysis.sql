@@ -38,7 +38,8 @@ ORDER BY
 LIMIT 
      5;
 
--- the top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022 --
+-- the top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022 -- 
+
 
 SELECT
     ds.district,
