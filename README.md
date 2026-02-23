@@ -7,7 +7,7 @@ Data-Driven Insights: This repository houses the code that transformed raw data 
 Impactful Visualizations: Discover the visual stories behind Telangana's growth. Matplotlib and Seaborn were our canvas, painting vibrant charts and graphs that make complex data accessible.
 Answering Stakeholder Questions: We addressed fundamental questions raised by stakeholders. From the environmental impact of plastic and rubber investments to the promotion of electric vehicles, our analyses have far-reaching implications.
 Regional Disparities: We dove deep into district-level analyses, uncovering nuances and regional disparities in economic growth. From real estate to industrial parks, we explored where opportunities 
-Recommendations for Progress: Beyond analysis, this project offers valuable recommendations for sustainable investments, renewable energy expansion, and embracing technological advancements.
+Recommendations for Progress: Beyond analysis, this project offers valuable recommendations for the sustainable investments, renewable energy expansion, and embracing technological advancements.
 
 
 
